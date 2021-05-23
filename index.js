@@ -1,4 +1,4 @@
-let username = 'johnalexand3rg@gmail.com';
+let username = 'pruebayeisson@gmail.com';
 let password = 'asd123qwe456';
 
 firebase.auth().createUserWithEmailAndPassword(username, password)
